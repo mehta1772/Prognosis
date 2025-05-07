@@ -4,7 +4,7 @@ Prognosis is an advanced predictive analytics application designed to provide ac
 
 ## Table of Contents
 
-- [Prognosis](#prognosis)
+  - [Prognosis](#prognosis)
   - [Table of Contents](#table-of-contents)
   - [Features](#features)
   - [Models Used](#models-used)
